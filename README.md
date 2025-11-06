@@ -2,9 +2,9 @@
 
 Avatar customization tool for Habitica users. Preview, customize, and export your Habitica avatar with an intuitive interface.
 
-## Live
+## Live Page
 
-🌐 [habitica-avatar-kit-dev](https://anitawlosek.github.io/habitica-avatar-kit-dev)
+🌐 [https://anitawlosek.github.io/habitica-avatar-kit](https://anitawlosek.github.io/habitica-avatar-kit)
 
 ## Features
 
